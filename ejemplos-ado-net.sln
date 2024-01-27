@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemplo1", "ejemplo1\ejemplo1.csproj", "{AE9950AD-B201-4341-B9E6-F8629B446D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practica-discos", "practica-discos\practica-discos.csproj", "{41CA1017-67B8-478A-8B88-C9C0FB4C2702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE9950AD-B201-4341-B9E6-F8629B446D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9950AD-B201-4341-B9E6-F8629B446D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9950AD-B201-4341-B9E6-F8629B446D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9950AD-B201-4341-B9E6-F8629B446D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41CA1017-67B8-478A-8B88-C9C0FB4C2702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41CA1017-67B8-478A-8B88-C9C0FB4C2702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41CA1017-67B8-478A-8B88-C9C0FB4C2702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41CA1017-67B8-478A-8B88-C9C0FB4C2702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02665C22-3F63-4ED0-A86B-C812D6EF991D}
+	EndGlobalSection
+EndGlobal
